@@ -1,1 +1,1 @@
-# pac-game
+# knife-game
